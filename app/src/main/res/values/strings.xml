@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Resep Masakan</string>
+    <string name="bahan">Daftar Bahan : </string>
+    <string name="steps">Langkah-langkah : </string>
+
+    <string-array name="title_resep">
+        <item>Resep ati ampela cah cabe hijau</item>
+        <item>Resep tumis kambing pedas</item>
+        <item>Resep cumi saus tiram</item>
+        <item>Resep Cumi masak nanas</item>
+        <item>Resep sapo hati ampela ayam</item>
+    </string-array>
+
+
+    <string-array name="Deskripsi_resep">
+        <item>Mau masak ati rempela dengan rasa nikmat nan mantap? Coba resep satu ini!</item>
+        <item>Mau numis kambing pedas nan nikmat bagi keluarga? Coba resep terbaik satu ini!</item>
+        <item>Mau cumi rasa tiram yang menggoda lidah anda? Anda wajib coba resep satu ini!</item>
+        <item>Mau Cumi yang di kombinasi buah-buahan? Cumi satu ini rasanya wow! Coba yuk!</item>
+        <item>Sapo hati ampela ayam membuat jiwo nan tentram. Wajib coba resep satu ini!</item>
+    </string-array>
+
+
+    <string-array name="detail_resep">
+        <item>  1.  10 pasang ampela dan ati ayam\n
+                2.  6 bawang merah (iris halus)\n
+                3.  4 bawang putih (iris halus)\n
+                4.  1 cabe merah (iris serong)\n
+                5.  5 cabe hijau (iris serong)\n
+                6.  10 cabe rawit utuh\n
+                7.  1 tomat (potong kasar)\n
+                8.  2 daun salam\n
+                9.  2 cm lengkuas\n
+                10. petai (kupas utuh)\n
+                11. 1 sendok makan kecap\n\n</item>
+        <item>  1.  500 gram daging kambing tanpa lemak\n
+                2.  1 bawang bombay (iris)\n
+                3.  5 cabe hijau (iris)\n
+                4.  4 cabe merah (iris)\n
+                5.  10 cabe rawit utuh\n
+                6.  4 daun bawang (potong 2 cm)\n
+                7.  2 cm jahe (iris tipis)\n
+                8.  4 bawang putih (cincang)\n
+                9.  1 sdm saus tiram\n
+                10. 1 sdm saus teriyaki\n\n</item>
+        <item>  1. 1 kg cumi (bersihkan, potong-potong 2 cm)\n
+                2. 3 bawang putih (iris)\n
+                3. 1 bawang bombay (iris)\n
+                4. 5 cabe hijau (iris serong)\n
+                5. 10 cabe rawit utuh\n
+                6. 2 cm jahe (cincang)\n
+                7. 3 sdm saus tiram\n
+                8. 2 sdm kecap manis\n
+                9. garam dan merica\n\n</item>
+        <item>  1. 350 gr cumi (bersihkan, potong dadu)\n
+                2. 100 gr nanas (potong kotak)\n
+                3. 2 bawang putih (cincang)\n
+                4. ½ bawang bombay (iris tipis)\n
+                5. 5 cabe hijau (iris serong)\n
+                6. 50 gr jamur kancing (belah dua)\n
+                7. 1 sdm saus tiram\n
+                8. 1 sdt minyak wijen\n
+                9. 2 sdt maizena (larutkan dengan sedikit air)\n
+                10. garam, gula, merica\n</item>
+        <item>  1. 6 pasang ati dan ampela ayam\n
+                2. 75 gr jamur kuping basah (halus)\n
+                3. 75 gr kapri\n
+                4. 1 wortel (potong-potong)\n
+                5. 3 bawang putih (cincang)\n
+                6. 1 bawang bombay (iris)\n\n
+
+                *) Bahan Kuah:\n
+                1. 500 ml air kaldu\n
+                2. 1 sdt minyak wijen\n
+                3. 1 sdt tepung maizena (larutkan dengan sedikit air)\n
+                4. 2 sdm saus tiram\n
+                5. garam, merica, gula\n\n
+        </item>
+    </string-array>
+
+
+    <string-array name="step_resep">
+        <item>  1. rebus ampela dan ati sampai matang, tiriskan\n
+                2. goreng ampela dan ati sebentar, tiriskan, bila suka, ampela ati bisa dipotong-potong sesuai selera\n
+                3. tumis bawang putih dan bawang merah sampai harum\n
+                4. masukkan seluruh bahan, aduk rata\n
+                5. masukkan ati ampela\n
+                6. tambahkan sedikit air kadlu dari rebusan ampela  dan ati\n
+                7. masak sampai bumbu meresap\n
+                8. terakhir masukkan petai dan cabe rawit, aduk sebentar\n
+                9. hm, yummy!\n\n</item>
+        <item>  1. tumis bawang bombay sampai layu, angkat, tiriskan\n
+                2. tumis bawang putih dan jahe sampai wangi. Masukkan cabe rawit,  cabe iris 3. dan daun bawang, aduk rata\n
+                4. masukan daging kambing, aduk sampai berubah warna\n
+                5. masukkan saus tiram, saus teriyaki, Aduk rata\n
+                6. tuangi sedikit air, masukkan bawang bombay yang sudah ditumis, masak sampai 7. semuanya matang\n
+                8. yummy!\n\n
+        </item>
+        <item>  1. tumis bawang putih dan bawang bombay\n
+                2. masukkan jahe dan cabe\n
+                3. masukkan cumi, saus tiram, kecap, garam, merica\n
+                4. Masak sampai cumi empuk\n
+                5. yummy!\n
+                6. Selamat mencoba\n\n
+        </item>
+        <item>  1. tumis bawang putih dan bawang bombay\n
+                2. masukkan cumi, masak hingga cumi matang\n
+                3. masukkan cabe hijau, jamur dan bumbu lainnya. Aduk rata\n
+                4. masukan nanas, minyak wijen\n
+                5. terakhir larutan maizena\n
+                6. yummy!\n</item>
+        <item>  1. didihkan air kaldu, masukan semua bahan kuah\n
+                2. Tumis bawang putih dan bawang bombay\n
+                3. masukan wortel dan jamur kuping\n
+                4. tuangi kuah\n
+                5. masukan kapri dan ati ampela. Masak hingga bumbu meresap\n
+                6. Yummy!\n\n</item>
+       </string-array>
+</resources>
